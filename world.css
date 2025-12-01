@@ -1,11 +1,9 @@
-/* Page styling */
 body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
 }
 
-/* Header */
 header {
     background: #0074D9;
     color: white;
@@ -13,14 +11,12 @@ header {
     text-align: center;
 }
 
-/* Main content area */
 main {
     width: 80%;
     max-width: 800px;
     margin: 30px auto;
 }
 
-/* controls */
 #controls {
     margin-bottom: 20px;
 }
@@ -29,12 +25,10 @@ main {
     background-color: #005fa3;
 }
 
-/* Results area */
 #result {
     margin-top: 20px;
 }
 
-/* Table styling */
 table {
     width: 100%;
     background: white;
