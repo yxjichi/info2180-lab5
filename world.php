@@ -43,7 +43,7 @@ if ($lookup === "cities") {
     exit;
 }
 
-// Country lookup
+// country lookup
 $stmt = $conn->prepare("
     SELECT name, continent, independence_year, head_of_state
     FROM countries
